@@ -1,1 +1,2 @@
 'Patch A'
+'Patch B'
