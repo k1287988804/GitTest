@@ -5,9 +5,6 @@
 'something to add to patch A'
 "i cant' typ goods"
 "something to move before patch B"
-"666"
-"777"
-"888"
 "999"
 "11111"
 "ksldfjskljdlsaj"
